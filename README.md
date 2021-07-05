@@ -13,7 +13,7 @@ A discord bot.
 The commands for said categories go as follows.
 
 ### Help
--help - Shows this command
+- help - Shows this command
 
 ### Characters
 
