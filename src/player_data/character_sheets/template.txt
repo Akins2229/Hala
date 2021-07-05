@@ -1,0 +1,3 @@
+20! 10! 20! 10! 10! 10; 100; Color Spray! Eldricth Blast; 1000; Longsword+1! Bow
+
+constitution! dexterity! strength! intelligence! wisdom! charisma; Hit Points; Spell! List; Equipment! List
