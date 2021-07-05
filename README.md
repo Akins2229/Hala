@@ -1,6 +1,7 @@
 # Hala
 A discord bot.
-[Invite](https://google.com)
+
+[Invite](https://discord.com/oauth2/authorize?client_id=856311869345759272&scope=bot&permissions=8)
 
 ## Command Categories
 
