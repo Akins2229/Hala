@@ -1,5 +1,6 @@
 # Hala
 A discord bot.
+[Invite](https://google.com)
 
 ## Command Categories
 
