@@ -67,13 +67,14 @@ More information on each command can be found either using the description attri
 
 ## Roadmap (v 1.1.0)
 
-- Scheduling
-- Better help command
-- Help paginator class
+- ~~Scheduling~~
+- ~~Better help command~~
+- ~~Help paginator class~~
 - A Music Cog thats actually written by me
 - A dise parsing and rolling system actually written by me
-- Improved sheet parsing
-- Webhook based character roleplay
+- ~~Improved sheet parsing~~
+- ~~Webhook based character roleplay~~
+- ~~Slash Commands~~
 
 ## Features
 
